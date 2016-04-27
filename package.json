@@ -1,0 +1,25 @@
+{
+  "name": "scssapp",
+  "version": "1.0.0",
+  "description": "SC server side app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-brooks/scssapp.git"
+  },
+  "keywords": [
+    "surfing"
+  ],
+  "author": "jeremybrooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-brooks/scssapp/issues"
+  },
+  "homepage": "https://github.com/jeremy-brooks/scssapp#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
